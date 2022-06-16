@@ -1,0 +1,2 @@
+# GoLangExercise
+ For learning golang
